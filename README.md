@@ -10,4 +10,4 @@ Code adventures in the Jones family
 
 ## Arduino
 
-* [color mixing lamp](/color-mixing-lamp.ino) - code for three phototransistors to detect light levels and set the colour of an RGB LED.
+* [colour mixing lamp](/colour-mixing-lamp.ino) - code for three phototransistors to detect light levels and set the colour of an RGB LED.
